@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="feab3340-f306-406a-b859-40d3fa63ba9f" name="Default Changelist" comment="" />
+    <list default="true" id="feab3340-f306-406a-b859-40d3fa63ba9f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -197,6 +200,9 @@
       <updated>1569395715770</updated>
       <workItem from="1569395717017" duration="16191000" />
       <workItem from="1569461366852" duration="7940000" />
+      <workItem from="1570089649258" duration="353000" />
+      <workItem from="1570413918594" duration="1914000" />
+      <workItem from="1570502712957" duration="40000" />
     </task>
     <task id="LOCAL-00001" summary="装饰器使用测试">
       <created>1569463168863</created>
